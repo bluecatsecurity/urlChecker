@@ -24,4 +24,4 @@ You`re welcome to to post what you would like to change.
 
 
 ## License
-[Octavio Ricci](www.linkedin.com/in/octavioricci)
+[Octavio Ricci](https://www.linkedin.com/in/octavioricci)
